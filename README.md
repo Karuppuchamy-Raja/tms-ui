@@ -1,2 +1,2 @@
 # tms-ui
-TamilnaduMuthtamizhSangam UI
+Tamilnadu Muthtamizh Sangam UI
